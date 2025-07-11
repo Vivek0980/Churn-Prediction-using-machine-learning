@@ -52,14 +52,6 @@ To build a classification model that predicts customer churn based on demographi
   - `Churn` or `Not Churn`
   - 10 useful tips depending on the result
 
-### ✅ Libraries Used
-```python
-import streamlit as st
-import pandas as pd
-import numpy as np
-import pickle
-from sklearn.preprocessing import LabelEncoder, StandardScaler
-
 
 Output Example
 🔴 If customer is predicted to Churn:
